@@ -1,0 +1,112 @@
+D:\Imp.Files\Cognizant\Cog_Training\Project\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Imp.Files\Cognizant\Cog_Training\Project\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Imp.Files\Cognizant\Cog_Training\Project\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\AuthorizationAPI.exe
+D:\Imp.Files\Cognizant\Cog_Training\Project\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\AuthorizationAPI.deps.json
+D:\Imp.Files\Cognizant\Cog_Training\Project\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\AuthorizationAPI.runtimeconfig.json
+D:\Imp.Files\Cognizant\Cog_Training\Project\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\AuthorizationAPI.runtimeconfig.dev.json
+D:\Imp.Files\Cognizant\Cog_Training\Project\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\AuthorizationAPI.dll
+D:\Imp.Files\Cognizant\Cog_Training\Project\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\AuthorizationAPI.pdb
+D:\Imp.Files\Cognizant\Cog_Training\Project\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\log4net.dll
+D:\Imp.Files\Cognizant\Cog_Training\Project\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Imp.Files\Cognizant\Cog_Training\Project\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Imp.Files\Cognizant\Cog_Training\Project\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Imp.Files\Cognizant\Cog_Training\Project\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Imp.Files\Cognizant\Cog_Training\Project\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Imp.Files\Cognizant\Cog_Training\Project\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Imp.Files\Cognizant\Cog_Training\Project\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Imp.Files\Cognizant\Cog_Training\Project\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Imp.Files\Cognizant\Cog_Training\Project\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Imp.Files\Cognizant\Cog_Training\Project\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Imp.Files\Cognizant\Cog_Training\Project\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Imp.Files\Cognizant\Cog_Training\Project\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Imp.Files\Cognizant\Cog_Training\Project\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Imp.Files\Cognizant\Cog_Training\Project\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Imp.Files\Cognizant\Cog_Training\Project\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Imp.Files\Cognizant\Cog_Training\Project\AuthorizationAPI\AuthorizationAPI\obj\Debug\netcoreapp3.1\AuthorizationAPI.csprojAssemblyReference.cache
+D:\Imp.Files\Cognizant\Cog_Training\Project\AuthorizationAPI\AuthorizationAPI\obj\Debug\netcoreapp3.1\AuthorizationAPI.AssemblyInfoInputs.cache
+D:\Imp.Files\Cognizant\Cog_Training\Project\AuthorizationAPI\AuthorizationAPI\obj\Debug\netcoreapp3.1\AuthorizationAPI.AssemblyInfo.cs
+D:\Imp.Files\Cognizant\Cog_Training\Project\AuthorizationAPI\AuthorizationAPI\obj\Debug\netcoreapp3.1\AuthorizationAPI.csproj.CoreCompileInputs.cache
+D:\Imp.Files\Cognizant\Cog_Training\Project\AuthorizationAPI\AuthorizationAPI\obj\Debug\netcoreapp3.1\AuthorizationAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Imp.Files\Cognizant\Cog_Training\Project\AuthorizationAPI\AuthorizationAPI\obj\Debug\netcoreapp3.1\AuthorizationAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Imp.Files\Cognizant\Cog_Training\Project\AuthorizationAPI\AuthorizationAPI\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationAPI.StaticWebAssets.Manifest.cache
+D:\Imp.Files\Cognizant\Cog_Training\Project\AuthorizationAPI\AuthorizationAPI\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationAPI.StaticWebAssets.xml
+D:\Imp.Files\Cognizant\Cog_Training\Project\AuthorizationAPI\AuthorizationAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\AuthorizationAPI.styles.css
+D:\Imp.Files\Cognizant\Cog_Training\Project\AuthorizationAPI\AuthorizationAPI\obj\Debug\netcoreapp3.1\AuthorizationAPI.RazorTargetAssemblyInfo.cache
+D:\Imp.Files\Cognizant\Cog_Training\Project\AuthorizationAPI\AuthorizationAPI\obj\Debug\netcoreapp3.1\AuthorizationAPI.csproj.CopyComplete
+D:\Imp.Files\Cognizant\Cog_Training\Project\AuthorizationAPI\AuthorizationAPI\obj\Debug\netcoreapp3.1\AuthorizationAPI.dll
+D:\Imp.Files\Cognizant\Cog_Training\Project\AuthorizationAPI\AuthorizationAPI\obj\Debug\netcoreapp3.1\AuthorizationAPI.pdb
+D:\Imp.Files\Cognizant\Cog_Training\Project\AuthorizationAPI\AuthorizationAPI\obj\Debug\netcoreapp3.1\AuthorizationAPI.genruntimeconfig.cache
+D:\AuthorizationAPI\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\AuthorizationAPI\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\AuthorizationAPI\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\AuthorizationAPI.exe
+D:\AuthorizationAPI\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\AuthorizationAPI.deps.json
+D:\AuthorizationAPI\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\AuthorizationAPI.runtimeconfig.json
+D:\AuthorizationAPI\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\AuthorizationAPI.runtimeconfig.dev.json
+D:\AuthorizationAPI\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\AuthorizationAPI.dll
+D:\AuthorizationAPI\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\AuthorizationAPI.pdb
+D:\AuthorizationAPI\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\log4net.dll
+D:\AuthorizationAPI\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\AuthorizationAPI\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AuthorizationAPI\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\AuthorizationAPI\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\AuthorizationAPI\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AuthorizationAPI\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\AuthorizationAPI\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\AuthorizationAPI\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\AuthorizationAPI\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\AuthorizationAPI\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\AuthorizationAPI\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\AuthorizationAPI\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\AuthorizationAPI\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\AuthorizationAPI\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\AuthorizationAPI\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\AuthorizationAPI\AuthorizationAPI\AuthorizationAPI\obj\Debug\netcoreapp3.1\AuthorizationAPI.csproj.AssemblyReference.cache
+D:\AuthorizationAPI\AuthorizationAPI\AuthorizationAPI\obj\Debug\netcoreapp3.1\AuthorizationAPI.AssemblyInfoInputs.cache
+D:\AuthorizationAPI\AuthorizationAPI\AuthorizationAPI\obj\Debug\netcoreapp3.1\AuthorizationAPI.AssemblyInfo.cs
+D:\AuthorizationAPI\AuthorizationAPI\AuthorizationAPI\obj\Debug\netcoreapp3.1\AuthorizationAPI.csproj.CoreCompileInputs.cache
+D:\AuthorizationAPI\AuthorizationAPI\AuthorizationAPI\obj\Debug\netcoreapp3.1\AuthorizationAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\AuthorizationAPI\AuthorizationAPI\AuthorizationAPI\obj\Debug\netcoreapp3.1\AuthorizationAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\AuthorizationAPI\AuthorizationAPI\AuthorizationAPI\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationAPI.StaticWebAssets.Manifest.cache
+D:\AuthorizationAPI\AuthorizationAPI\AuthorizationAPI\obj\Debug\netcoreapp3.1\AuthorizationAPI.RazorTargetAssemblyInfo.cache
+D:\AuthorizationAPI\AuthorizationAPI\AuthorizationAPI\obj\Debug\netcoreapp3.1\AuthorizationAPI.csproj.CopyComplete
+D:\AuthorizationAPI\AuthorizationAPI\AuthorizationAPI\obj\Debug\netcoreapp3.1\AuthorizationAPI.dll
+D:\AuthorizationAPI\AuthorizationAPI\AuthorizationAPI\obj\Debug\netcoreapp3.1\AuthorizationAPI.pdb
+D:\AuthorizationAPI\AuthorizationAPI\AuthorizationAPI\obj\Debug\netcoreapp3.1\AuthorizationAPI.genruntimeconfig.cache
+D:\AuthorizationAPI\AuthorizationAPI\AuthorizationAPI\obj\Debug\netcoreapp3.1\AuthorizationAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\FINAL FILES PORTFOLIO\PMS\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\FINAL FILES PORTFOLIO\PMS\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\appsettings.json
+F:\FINAL FILES PORTFOLIO\PMS\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\AuthorizationAPI.exe
+F:\FINAL FILES PORTFOLIO\PMS\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\AuthorizationAPI.deps.json
+F:\FINAL FILES PORTFOLIO\PMS\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\AuthorizationAPI.runtimeconfig.json
+F:\FINAL FILES PORTFOLIO\PMS\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\AuthorizationAPI.runtimeconfig.dev.json
+F:\FINAL FILES PORTFOLIO\PMS\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\AuthorizationAPI.dll
+F:\FINAL FILES PORTFOLIO\PMS\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\AuthorizationAPI.pdb
+F:\FINAL FILES PORTFOLIO\PMS\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\log4net.dll
+F:\FINAL FILES PORTFOLIO\PMS\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\FINAL FILES PORTFOLIO\PMS\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\FINAL FILES PORTFOLIO\PMS\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\FINAL FILES PORTFOLIO\PMS\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\FINAL FILES PORTFOLIO\PMS\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\FINAL FILES PORTFOLIO\PMS\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\FINAL FILES PORTFOLIO\PMS\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+F:\FINAL FILES PORTFOLIO\PMS\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\FINAL FILES PORTFOLIO\PMS\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+F:\FINAL FILES PORTFOLIO\PMS\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\FINAL FILES PORTFOLIO\PMS\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\FINAL FILES PORTFOLIO\PMS\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\FINAL FILES PORTFOLIO\PMS\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\FINAL FILES PORTFOLIO\PMS\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\FINAL FILES PORTFOLIO\PMS\AuthorizationAPI\AuthorizationAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\FINAL FILES PORTFOLIO\PMS\AuthorizationAPI\AuthorizationAPI\obj\Debug\netcoreapp3.1\AuthorizationAPI.csproj.AssemblyReference.cache
+F:\FINAL FILES PORTFOLIO\PMS\AuthorizationAPI\AuthorizationAPI\obj\Debug\netcoreapp3.1\AuthorizationAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\FINAL FILES PORTFOLIO\PMS\AuthorizationAPI\AuthorizationAPI\obj\Debug\netcoreapp3.1\AuthorizationAPI.AssemblyInfoInputs.cache
+F:\FINAL FILES PORTFOLIO\PMS\AuthorizationAPI\AuthorizationAPI\obj\Debug\netcoreapp3.1\AuthorizationAPI.AssemblyInfo.cs
+F:\FINAL FILES PORTFOLIO\PMS\AuthorizationAPI\AuthorizationAPI\obj\Debug\netcoreapp3.1\AuthorizationAPI.csproj.CoreCompileInputs.cache
+F:\FINAL FILES PORTFOLIO\PMS\AuthorizationAPI\AuthorizationAPI\obj\Debug\netcoreapp3.1\AuthorizationAPI.MvcApplicationPartsAssemblyInfo.cs
+F:\FINAL FILES PORTFOLIO\PMS\AuthorizationAPI\AuthorizationAPI\obj\Debug\netcoreapp3.1\AuthorizationAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\FINAL FILES PORTFOLIO\PMS\AuthorizationAPI\AuthorizationAPI\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationAPI.StaticWebAssets.Manifest.cache
+F:\FINAL FILES PORTFOLIO\PMS\AuthorizationAPI\AuthorizationAPI\obj\Debug\netcoreapp3.1\AuthorizationAPI.RazorTargetAssemblyInfo.cache
+F:\FINAL FILES PORTFOLIO\PMS\AuthorizationAPI\AuthorizationAPI\obj\Debug\netcoreapp3.1\AuthorizationAPI.csproj.CopyComplete
+F:\FINAL FILES PORTFOLIO\PMS\AuthorizationAPI\AuthorizationAPI\obj\Debug\netcoreapp3.1\AuthorizationAPI.dll
+F:\FINAL FILES PORTFOLIO\PMS\AuthorizationAPI\AuthorizationAPI\obj\Debug\netcoreapp3.1\AuthorizationAPI.pdb
+F:\FINAL FILES PORTFOLIO\PMS\AuthorizationAPI\AuthorizationAPI\obj\Debug\netcoreapp3.1\AuthorizationAPI.genruntimeconfig.cache
