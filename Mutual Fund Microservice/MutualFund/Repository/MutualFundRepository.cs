@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using DailyShare.Controllers;
 using MutualFund.DbHelper;
 using MutualFund.Models;
+using Newtonsoft.Json;
 
 namespace MutualFund.Repository
 {
@@ -12,7 +13,14 @@ namespace MutualFund.Repository
     {
         public MutualFundDetails GetMutualFund(string mutualFundName)
         {
-            MutualFundDetails mutualFundDetails = DbService.MutualFundDetails.FirstOrDefault(c => c.MutualFundName.ToLower() == mutualFundName.ToLower());
+            string all = System.IO.File.ReadAllText(@"Dbhelp.json");
+          //  List<MutualFundDetails> m = new List<MutualFundDetails>();
+            //object p = JsonConvert.DeserializeObject(all);
+            //m = p;
+            var model = JsonConvert.DeserializeObject<List<MutualFundDetails>>(all);
+
+
+            MutualFundDetails mutualFundDetails = model.FirstOrDefault(c => c.MutualFundName.ToLower() == mutualFundName.ToLower());
             return mutualFundDetails == null ? null : mutualFundDetails;
         }
     }

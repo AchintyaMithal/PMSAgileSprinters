@@ -11,9 +11,10 @@ namespace Module_3.Services
 {
     public class CalculateNetWorthService: ICalculateNetWorthService
     {
+
         public static List<PortfolioDetails> _portFolioDetails = new List<PortfolioDetails>()
             {
-                new PortfolioDetails{
+                /*new PortfolioDetails{
                     portFolioid=1,
                     MutualFundList = new List<MutualFundDetails>()
                     {
@@ -39,12 +40,20 @@ namespace Module_3.Services
                         new StockDetails{StockCount = 2, StockName = "HDFC"},
                         new StockDetails{StockCount = 1, StockName = "AXIS"}
                     }
-                }
-                
+                }*/
+
 
             };
         public PortfolioDetails GetPortFolioDetailsByID(int id)
         {
+            string all = System.IO.File.ReadAllText(@"Dbhelp.json");
+            var model = JsonConvert.DeserializeObject<List<PortfolioDetails>>(all);
+            if(Global.i != 3)
+            {
+                _portFolioDetails = model;
+
+            }
+
             PortfolioDetails portFolioDetails = new PortfolioDetails();
             try
             {

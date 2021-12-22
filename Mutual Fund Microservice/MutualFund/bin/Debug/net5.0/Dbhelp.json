@@ -1,0 +1,20 @@
+
+ [
+      {
+        "MutualFundId": 1,
+        "MutualFundName": "HDFC",
+        "MutualFundValue": "10"
+      },
+      {
+        "MutualFundId": 2,
+        "MutualFundName": "AXIS",
+        "MutualFundValue": "20"
+      },
+      {
+        "MutualFundId": 3,
+        "MutualFundName": "ICICI",
+        "MutualFundValue": "20"
+      }
+    ]
+  
+

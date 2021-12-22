@@ -17,7 +17,7 @@ namespace MutualFundNav.Controllers
         private readonly IMutualFundRepository _mutualFundRepository;
         private readonly ILoggerManager _logger;
 
-        public MutualFundNavController(IMutualFundRepository mutualFundRepository,ILoggerManager logger)
+        public MutualFundNavController(IMutualFundRepository mutualFundRepository, ILoggerManager logger)
         {
             _mutualFundRepository = mutualFundRepository;
             _logger = logger;
@@ -32,13 +32,14 @@ namespace MutualFundNav.Controllers
                 return BadRequest();
             }
             MutualFundDetails mutualFund = _mutualFundRepository.GetMutualFund(mutualFundName);
-            if(mutualFund == null)
+            if (mutualFund == null)
             {
                 return NoContent();
             }
             _logger.LogInformation($"MutualFundDetails with mutualFund name{mutualFundName} returned");
             return Ok(mutualFund);
         }
+
     }   
 }
 

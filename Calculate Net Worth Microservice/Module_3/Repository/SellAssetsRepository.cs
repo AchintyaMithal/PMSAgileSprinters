@@ -5,6 +5,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using CustomerPortal.Models;
 using Module_3.Services;
+using System.Text.Json;
+using System.IO;
 
 namespace Module_3.Repository
 {
@@ -37,6 +39,8 @@ namespace Module_3.Repository
                 
                 saleStatus = portfolioDetails.MutualFundList.Remove(mutualFundToBeSold);
             }
+
+            Global.i = 3;
 
             assetSaleResponse = new AssetSaleResponse()
             {

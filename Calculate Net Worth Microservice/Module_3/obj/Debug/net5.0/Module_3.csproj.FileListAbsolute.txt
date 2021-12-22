@@ -696,3 +696,4 @@ F:\FINAL FILES PORTFOLIO\PMS\Calculate Net Worth Microservice\Module_3\obj\Debug
 F:\FINAL FILES PORTFOLIO\PMS\Calculate Net Worth Microservice\Module_3\obj\Debug\net5.0\ref\Module_3.dll
 F:\FINAL FILES PORTFOLIO\PMS\Calculate Net Worth Microservice\Module_3\obj\Debug\net5.0\Module_3.pdb
 F:\FINAL FILES PORTFOLIO\PMS\Calculate Net Worth Microservice\Module_3\obj\Debug\net5.0\Module_3.genruntimeconfig.cache
+F:\FINAL FILES PORTFOLIO\PMS\Calculate Net Worth Microservice\Module_3\bin\Debug\net5.0\DbHelp.json
