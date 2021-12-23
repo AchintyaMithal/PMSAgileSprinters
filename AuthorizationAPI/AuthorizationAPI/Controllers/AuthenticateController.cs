@@ -45,7 +45,7 @@ namespace AuthorizationAPI.Controllers
                     if (tokenVal != null)
                     {
                         //_log4net.Info("Token received.");
-                        response = Ok(new { tokenString = tokenVal , portfolioId = customer.PortfolioId });
+                        response = Ok(new { tokenString = tokenVal , portfolioId = customer.PortfolioId ,customerName=customer.CustomerName});
                     }
                     //log4net.Info("Response is given user is authorized or unauthorized.");
                     return response;
