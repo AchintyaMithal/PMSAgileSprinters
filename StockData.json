@@ -1,0 +1,13 @@
+[
+  {
+    "StockId": 1001,
+    "StockName": "TATA",
+    "StockValue": 10000
+  },
+  {
+    "StockId": 1002,
+    "StockName": "RELIANCE",
+    "StockValue": 20000
+  }
+
+]
